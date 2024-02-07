@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Archivos de compilación
+dist/
+*.log
+npm-debug.log*
+
+# Dependencias específicas del sistema operativo
+.DS_Store
+Thumbs.db
+
+*.env
+*.env.local
+*.env.staging
+
+# Dependencias específicas del editor
+.vscode/
+.idea/
+
+# Archivos de configuración
+*.config.js
